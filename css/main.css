@@ -304,7 +304,7 @@ html, body {
 
 .loader-wrapper {
   z-index: 999;
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 0;
   width: 100%;
